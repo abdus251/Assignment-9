@@ -1,0 +1,30 @@
+[
+    {   
+        "id": "101",
+        "section": "Account & Finance",
+        "jobs": "500 jobs available",
+        "img": "https://i.ibb.co/jVVDmL6/accounts-1.png"
+
+    },
+    {  
+         "id": "102",
+        "section": "Creative Design",
+        "jobs": "350 jobs available",
+        "img": "https://i.ibb.co/jVVDmL6/accounts-1.png"
+    },
+    {   
+        "id": "103",
+        "section": "Account & Finance",
+        "jobs": "792 jobs available",
+        "img": "https://i.ibb.co/QMqf2Hn/chip-1.png"
+        
+    },
+
+    {
+        "id": "104",
+        "section": "Engineering Job",
+        "jobs": "59 jobs available",
+        "img": "https://i.ibb.co/y4Wjx2p/Frame-1.png"
+    }
+   
+]

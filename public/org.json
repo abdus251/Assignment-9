@@ -1,0 +1,41 @@
+{
+    "companies": [
+      {
+        "id": 1,
+        "logo": "https://example.com/company1_logo.png",
+        "job_title": "Software Engineer",
+        "name": "Tech Solutions Inc.",
+        "job_type": "Full-time",
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $120,000 per year"
+      },
+      {
+        "id": 2,
+        "logo": "https://example.com/company2_logo.png",
+        "job_title": "Data Scientist",
+        "name": "DataWorks Corp.",
+        "job_type": "Remote",
+        "location": "Remote",
+        "salary": "$90,000 - $110,000 per year"
+      },
+      {
+        "id": 3,
+        "logo": "https://example.com/company3_logo.png",
+        "job_title": "UI/UX Designer",
+        "name": "Pixel Perfect Designs",
+        "job_type": "Contract",
+        "location": "New York, NY",
+        "salary": "$70,000 - $85,000 per year"
+      },
+      {
+        "id": 4,
+        "logo": "https://example.com/company4_logo.png",
+        "job_title": "DevOps Engineer",
+        "name": "CloudMaster Solutions",
+        "job_type": "Full-time",
+        "location": "Austin, TX",
+        "salary": "$95,000 - $115,000 per year"
+      }
+    ]
+  }
+  
