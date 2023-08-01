@@ -1,0 +1,43 @@
+[
+      {
+        "id": "1",
+        "caption":"google",
+        "url": "../src/assets/logo/google-1-1 1-1.png",
+        "job_title": "Technical Database Engineer",
+        "name": "Google LLC",
+        "job_type": "Full-time",
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $120,000 per year"
+      },
+      {
+        "id": 2,
+        "caption":"netflix",
+        "url": "../src/assets/logo/netflix-4 1.png",
+        "job_title": "Senior Product Designer",
+        "name": "Netflix",
+        "job_type": "Onsite, Full Time",
+        "location": "Remote",
+        "salary": "$90,000 - $110,000 per year"
+      },
+      {
+        "id": 3,
+        "caption":"tesla",
+        "url": "../src/assets/Logo/tesla-9 1.png",
+        "job_title": "Software Engineer",
+        "name": "Tesla",
+        "job_type": "Onsite, Full Time",
+        "location": "New York, NY",
+        "salary": "$70,000 - $85,000 per year"
+      },
+      {
+        "id": 4,
+        "caption":"DevOps",
+        "url": "../src/assets/logo/devops_lifecycle.png",   "job_title": "DevOps Engineer",
+        "name": "CloudMaster Solutions",
+        "job_type": "Remote, Full Time",
+        "location": "Austin, TX",
+        "salary": "$95,000 - $115,000 per year"
+      }
+    ]
+  
+  

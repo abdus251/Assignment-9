@@ -14,6 +14,7 @@ function App() {
     <Banner></Banner>
     <Category></Category>
     <Featured></Featured>
+    
     </>
   )
 }

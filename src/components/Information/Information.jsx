@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const Information = (props) => {
     const {img, section, jobs} = props.doc;
