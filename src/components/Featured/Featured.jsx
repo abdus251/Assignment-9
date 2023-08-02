@@ -25,6 +25,7 @@ const Featured = () => {
                     })
                 }
             </div>
+            <button className='text-white font-bold my-8 ml-80 bg-purple-400 rounded w-32 h-12'> Sell All Jobs</button>
         </div>
     );
 };
