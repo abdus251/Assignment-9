@@ -28,13 +28,13 @@ const Featured = () => {
                                 {org.salary}
                                 </p> 
 <button onClick={() => 
-    navigate("/applied jobs")} className='bg-purple-400 rounded w-28 h-8'>View Details</button>              
+    navigate("/appliedJobs")} className='bg-purple-400 rounded w-28 h-8'>View Details</button>              
                             </div>
                         )
                     })
                 }
             </div>
-            <button className='text-black font-bold my-8 ml-80 bg-purple-400 rounded w-32 h-12'> Sell All Jobs</button>
+            <button className='text-black font-bold my-8 ml-96 bg-purple-400 rounded w-32 h-12'> Sell All Jobs</button>
             <div className=""></div>
         </div>
     );

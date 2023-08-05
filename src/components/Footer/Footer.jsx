@@ -2,7 +2,7 @@ import foot from '../../assets/Icons/Group 9969.png';
 
 const Footer = () => {
     return (
-        <div className="flex space-x-24 bg-black box-border  p-8 text-white gap-20 h-full">
+        <div className="grid gap-4 grid-cols-6 space-x-24  bg-black box-border  p-8 text-white h-full">
             <div className="">
                 <h4 className="mt-24 mb-4">Job Hunt</h4>
                 <p className='pb-4'><small >There are many variations of passages <br /> of Lorem Ipsum , but the majority have <br />  suffered alteration in some form.</small></p>
