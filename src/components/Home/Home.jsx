@@ -9,15 +9,11 @@ import Footer from '../Footer/Footer';
 const Home = () => {
     return (
         <div>
-          <Header></Header>
+            <Header></Header>
             <Outlet></Outlet>
             <Category></Category>
             <Featured></Featured>
             <Footer></Footer>
-            
-            
-
-            
         </div>
     );
 };
