@@ -21,7 +21,7 @@ const AppliedJobs = () => {
                                 {other.salary}
 
                             </p>
-                            <button className='bg-purple-400 text-white text-center rounded h-10 w-1/3 ml-12 mt-10'> View Details</button>
+                            <button className='bg-purple-400 text-white text-center rounded h-10 w-1/2 ml-12 mt-10'> View Details</button>
                             <div className=""></div>
 
                         </div>

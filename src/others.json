@@ -1,7 +1,7 @@
 [
   {
     "id": "001",
-    "img1": "../src/assets/All Images/google-1-1 1.png",
+    "img1": "https://i.ibb.co/58TDWDN/Google-1-1-1.png",
     "job_title": "Technical Database Engineer",
     "company": "Google LLC",
     "description": "We are seeking a skilled Technical Database Engineer to manage and optimize our database systems. The ideal candidate will have a strong background in database administration and be proficient in SQL, performance tuning, and data security. You will collaborate with our development teams to design and implement efficient database structures and ensure data integrity and availability. Additionally, you will troubleshoot database issues, monitor performance, and perform backups and recovery tasks.",
@@ -14,7 +14,7 @@
   },
   {
     "id": "002",
-    "img1": "../src/assets/All Images/netflix-4 1.png",
+    "img1": "https://i.ibb.co/svjrS38/netflix-4-1.png",
     "job_title": "Senior Product Designer",
     "company": "Netflix",
     "description": "As a Product Designer, you will play a crucial role in creating exceptional user experiences and visually appealing designs for our products. You will collaborate closely with cross-functional teams, including product managers, engineers, and stakeholders, to transform ideas and concepts into intuitive and user-centered designs. The ideal candidate will possess a strong design background, excellent problem-solving skills, and a deep understanding of user behavior and psychology.",
@@ -27,7 +27,7 @@
   },
   {
     "id": "003",
-    "img1": "../src/assets/All Images/tesla-9 1.png",
+    "img1": "https://i.ibb.co/g3ZLFwM/tesla-9-1.png",
     "job_title": "Software Engineer",
     "company": "Tesla",
     "educational_requirements": [
@@ -43,7 +43,7 @@
   },
   {
     "id": "004",
-    "img1": "../src/assets/All Images/Group 10021.png",
+    "img1": "https://i.ibb.co/T4smKhL/Group-10021.png",
     "job_title": "Technical Database Engineer",
     "company": "Airbnb LLC",
     "experiences": [
