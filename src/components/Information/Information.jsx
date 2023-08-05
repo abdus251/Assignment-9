@@ -2,7 +2,7 @@
 
 const Information = (props) => {
     const {img, section, jobs} = props.doc;
-    console.log(props)
+    // console.log(props)
     return (
         <div className=' bg-slate-100 box-border h-40 w-40 p-4 ml-12 mr-12 mb-4'>
 <img src={img} alt="" />

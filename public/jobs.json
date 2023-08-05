@@ -1,0 +1,15 @@
+ [
+      { "id": "001",
+        "job_title": "Technical Database Engineer",
+        "description": "We are seeking a skilled Technical Database Engineer to manage and optimize our database systems. The ideal candidate will have a strong background in database administration and be proficient in SQL, performance tuning, and data security. You will collaborate with our development teams to design and implement efficient database structures and ensure data integrity and availability. Additionally, you will troubleshoot database issues, monitor performance, and perform backups and recovery tasks.",
+        "location": "Anytown, USA",
+        "employment_type": "Full-time",
+        "salary": "Competitive salary based on experience",
+        "phone": "+1 (555) 123-4567",
+        "email": "jobs@examplecompany.com",
+        "address": "123 Main Street, Anytown, USA"
+      }
+      
+ ]
+  
+  

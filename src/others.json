@@ -1,0 +1,63 @@
+[
+  {
+    "id": "001",
+    "img1": "../src/assets/All Images/google-1-1 1.png",
+    "job_title": "Technical Database Engineer",
+    "company": "Google LLC",
+    "description": "We are seeking a skilled Technical Database Engineer to manage and optimize our database systems. The ideal candidate will have a strong background in database administration and be proficient in SQL, performance tuning, and data security. You will collaborate with our development teams to design and implement efficient database structures and ensure data integrity and availability. Additionally, you will troubleshoot database issues, monitor performance, and perform backups and recovery tasks.",
+    "location": "Anytown, USA",
+    "employment_type": "Remote    Full-time", 
+    "salary": "Salary: 70k-90k",
+    "phone": "+1 (555) 123-4567",
+    "email": "jobs@examplecompany.com",
+    "address": "123 Main Street, Anytown, USA"
+  },
+  {
+    "id": "002",
+    "img1": "../src/assets/All Images/netflix-4 1.png",
+    "job_title": "Senior Product Designer",
+    "company": "Netflix",
+    "description": "As a Product Designer, you will play a crucial role in creating exceptional user experiences and visually appealing designs for our products. You will collaborate closely with cross-functional teams, including product managers, engineers, and stakeholders, to transform ideas and concepts into intuitive and user-centered designs. The ideal candidate will possess a strong design background, excellent problem-solving skills, and a deep understanding of user behavior and psychology.",
+    "location": "Metropolis City, XYZ",
+    "employment_type": "Onsite  Fulltime",
+    "salary": "Salary: 100k-150k",
+    "phone": "+1 (555) 987-6543",
+    "email": "careers@examplecompany.com",
+    "address": "456 Oak Avenue, Metropolis City, XYZ"
+  },
+  {
+    "id": "003",
+    "img1": "../src/assets/All Images/tesla-9 1.png",
+    "job_title": "Software Engineer",
+    "company": "Tesla",
+    "educational_requirements": [
+      "Bachelor's degree in Computer Science, Software Engineering, or a related field.",
+      "Master's degree is a plus but not mandatory."
+    ],
+    "location": "Techville, State XYZ",
+    "employment_type": "Onsite  Fulltime",
+    "salary": "Salary: 80k-90k",
+    "phone": "+1 (555) 789-0123",
+    "email": "hr@examplecompany.com",
+    "address": "789 Elm Street, Techville, State XYZ"
+  },
+  {
+    "id": "004",
+    "img1": "../src/assets/All Images/Group 10021.png",
+    "job_title": "Technical Database Engineer",
+    "company": "Airbnb LLC",
+    "experiences": [
+      "Minimum 5 years of experience in database administration with a focus on managing SQL databases.",
+      "Proficiency in performance optimization, database security, and disaster recovery.",
+      "Experience with cloud-based database platforms (e.g., AWS RDS, Azure SQL Database).",
+      "Familiarity with data migration and ETL processes.",
+      "Knowledge of NoSQL databases (e.g., MongoDB, Cassandra) is a plus."
+    ],
+    "location": "Anytown, USA",
+    "employment_type": "Remote Full-time", 
+    "salary": "Salary: 150k-200k",
+    "phone": "+1 (555) 234-5678",
+    "email": "jobopportunity@examplecompany.com",
+    "address": "987 Maple Lane, Anytown, USA"
+  }
+]
