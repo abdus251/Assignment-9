@@ -2,7 +2,7 @@
       {
         "id": "1",
         "caption":"google",
-        "url": "../src/assets/logo/google-1-1 1-1.png",
+        "url": "https://i.ibb.co/58TDWDN/Google-1-1-1.png",
         "job_title": "Technical Database Engineer",
         "name": "Google LLC",
         "job_type": "Full-time",
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "caption":"netflix",
-        "url": "../src/assets/logo/netflix-4 1.png",
+        "url": "https://i.ibb.co/svjrS38/netflix-4-1.png",
         "job_title": "Senior Product Designer",
         "name": "Netflix",
         "job_type": "Onsite, Full Time",
@@ -22,7 +22,7 @@
       {
         "id": 3,
         "caption":"tesla",
-        "url": "../src/assets/Logo/tesla-9 1.png",
+        "url": "https://i.ibb.co/g3ZLFwM/tesla-9-1.png",
         "job_title": "Software Engineer",
         "name": "Tesla",
         "job_type": "Onsite, Full Time",
@@ -32,7 +32,8 @@
       {
         "id": 4,
         "caption":"DevOps",
-        "url": "../src/assets/logo/devops_lifecycle.png",   "job_title": "DevOps Engineer",
+        "url": "https://i.ibb.co/T4smKhL/Group-10021.png",
+           "job_title": "DevOps Engineer",
         "name": "CloudMaster Solutions",
         "job_type": "Remote, Full Time",
         "location": "Austin, TX",
