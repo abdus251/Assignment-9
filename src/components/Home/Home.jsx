@@ -1,20 +1,20 @@
 import { Outlet } from 'react-router-dom';
 import Header from '../Header/Header';
-import Category from '../Category/Category';
-import Featured from '../Featured/Featured';
-import Footer from '../Footer/Footer';
+// import Category from '../Category/Category';
+// import Featured from '../Featured/Featured';
+// import Footer from '../Footer/Footer';
 
 
 
 const Home = () => {
     return (
-        <div>
+        <>
             <Header></Header>
             <Outlet></Outlet>
-            <Category></Category>
+            {/* <Category></Category>
             <Featured></Featured>
-            <Footer></Footer>
-        </div>
+            <Footer></Footer> */}
+        </>
     );
 };
 
